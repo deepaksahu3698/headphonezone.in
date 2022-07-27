@@ -6,7 +6,7 @@ Headphone Zone is India first exclusive online store for headphones, earphones a
 
 </p>
 
-<a herf="unique-sprite-5a80fe.netlify.app/">GO LIVE<>
+<a href="unique-sprite-5a80fe.netlify.app/"><h3>GO LIVE</h3></a>
 <h1>  DEMO </h1>
 
 <img src="https://github.com/deepaksahu3698/headphonezone.in/blob/main/headphonecomp.gif">
